@@ -1,7 +1,7 @@
 {
     "name": "com.kingdox.developer-attribute",
     "version": "1.0.0",
-    "displayName": "Developer Attribute",
+    "displayName": "Kingdox Developer Attribute",
     "description": "Inspector Message Helper For Developers",
     "unity": "2020.1",
     "keywords": [
