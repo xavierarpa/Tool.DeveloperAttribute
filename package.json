@@ -25,5 +25,7 @@
     "bugs": {
         "url": "https://www.google.com/"
     },
-    "homepage": "https://github.com/kingdox"
+    "homepage": "https://github.com/kingdox",
+    "unity": "2021.3",
+    "dependencies": {}
 }
